@@ -130,7 +130,7 @@ toml==0.10.2
 tomli==1.2.2
 trio==0.19.0
 trio-websocket==0.9.2
-typing-extensions==3.10.0.0
+typing-extensions
 uritemplate==3.0.1
 urllib3==1.26.7
 virtualenv==20.8.1
