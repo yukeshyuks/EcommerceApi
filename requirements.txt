@@ -6,7 +6,7 @@ atomicwrites==1.4.0
 attrs==21.2.0
 autopep8==1.5.7
 backports.entry-points-selectable==1.1.0
-black==21.9b0
+
 cachetools==4.2.4
 certifi==2021.10.8
 cffi==1.15.0
