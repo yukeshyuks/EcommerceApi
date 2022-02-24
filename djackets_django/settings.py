@@ -52,7 +52,7 @@ INSTALLED_APPS = [
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '']
+ALLOWED_HOSTS = ['127.0.0.1', 'ecommerceapi3.herokuapp.com']
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
