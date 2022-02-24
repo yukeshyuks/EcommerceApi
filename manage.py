@@ -21,5 +21,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
-STATIC_ROOT = os.path.join(PROJECT_DIR, 'static')
